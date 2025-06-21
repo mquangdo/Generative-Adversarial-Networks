@@ -1,1 +1,1 @@
-# Generative-Adversarial-Networks
+# Generative Models
